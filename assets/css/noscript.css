@@ -1,12 +1,10 @@
 
 
-/* BG */
 
 	body.is-preload #bg:before {
 		background-color: transparent;
 	}
 
-/* Header */
 
 	body.is-preload #header {
 		-moz-filter: none;
@@ -25,7 +23,6 @@
 			opacity: 1;
 		}
 
-/* Main */
 
 	#main article {
 		opacity: 1;
