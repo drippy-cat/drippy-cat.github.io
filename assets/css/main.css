@@ -68,7 +68,6 @@ input, select, textarea {
 	appearance: none;
 }
 
-/* Basic */
 
 	@-ms-viewport {
 		width: device-width;
@@ -105,7 +104,6 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-/* Type */
 
 	html {
 		font-size: 16pt;
@@ -296,7 +294,6 @@ input, select, textarea {
 		text-align: right;
 	}
 
-/* Form */
 
 	form {
 		margin: 0 0 2rem 0;
@@ -573,7 +570,6 @@ input, select, textarea {
 		opacity: 1.0;
 	}
 
-/* Box */
 
 	.box {
 		border-radius: 4px;
@@ -594,7 +590,6 @@ input, select, textarea {
 			padding: 0;
 		}
 
-/* Icon */
 
 	.icon {
 		text-decoration: none;
@@ -631,7 +626,6 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-/* Image */
 
 	.image {
 		border-radius: 4px;
@@ -716,7 +710,6 @@ input, select, textarea {
 
 		}
 
-/* List */
 
 	ol {
 		list-style: decimal;
@@ -767,7 +760,6 @@ input, select, textarea {
 			margin-left: 2rem;
 		}
 
-/* Actions */
 
 	ul.actions {
 		display: -moz-flex;
@@ -889,7 +881,6 @@ input, select, textarea {
 
 		}
 
-/* Icons */
 
 	ul.icons {
 		cursor: default;
@@ -924,7 +915,6 @@ input, select, textarea {
 					background-color: rgba(255, 255, 255, 0.175);
 				}
 
-/* Table */
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
@@ -992,7 +982,6 @@ input, select, textarea {
 				border-top: 0;
 			}
 
-/* Button */
 
 	input[type="submit"],
 	input[type="reset"],
@@ -1100,7 +1089,6 @@ input, select, textarea {
 		line-height: calc(2.75rem - 2px);
 	}
 
-/* BG */
 
 	#bg {
 		-moz-transform: scale(1.0);
@@ -1176,7 +1164,6 @@ input, select, textarea {
 			background-color: #000000;
 		}
 
-/* Wrapper */
 
 	#wrapper {
 		display: -moz-flex;
@@ -1231,7 +1218,6 @@ input, select, textarea {
 
 		}
 
-/* Header */
 
 	#header {
 		display: -moz-flex;
@@ -1497,7 +1483,6 @@ input, select, textarea {
 
 		}
 
-/* Main */
 
 	#main {
 		-moz-flex-grow: 1;
@@ -1619,7 +1604,6 @@ input, select, textarea {
 
 		}
 
-/* Footer */
 
 	#footer {
 		-moz-transition: -moz-transform 0.325s ease-in-out, -moz-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
