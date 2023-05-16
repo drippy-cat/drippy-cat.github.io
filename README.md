@@ -1,4 +1,5 @@
-drippy-cat's personal website hosted through github pages.
+<h3>drippy-cat's personal website hosted through github pages.</h3>
+______________________________________________________________________________________________________________________________________________
 
 Credits:
 
