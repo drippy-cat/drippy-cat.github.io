@@ -5,7 +5,7 @@ Credits:
 
 	Images:
 		Unsplash (unsplash.com)
-		Company Logos: repspect companies (NOTE: some logos may be modified for readability)
+		Company Logos: Respective companies (NOTE: some logos may be modified for readability)
 
 	Icons:
 		Font Awesome (fontawesome.io)
